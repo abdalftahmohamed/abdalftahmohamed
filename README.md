@@ -96,9 +96,9 @@ Published:
 
 ## Let's Connect
 
-- Website: https://fathy.me
-- LinkedIn: https://linkedin.com/in/ahmed-fathy-a63205158
-- Email: fathy.dev@gmail.com
+[//]: # (- Website: https://fathy.me)
+- LinkedIn: https://www.linkedin.com/in/abdelftah-mohamed-abdalftah-0640831b9
+- Email: abdalftahmohamed054@gmail.com
 
 ---
 
