@@ -43,7 +43,6 @@ I enjoy solving complex backend problems and building systems that scale.
 - Docker
 - Nginx
 - Linux
-- CI/CD Pipelines
 
 ### Integrations
 - Facebook Marketing API
@@ -51,6 +50,7 @@ I enjoy solving complex backend problems and building systems that scale.
 - LinkedIn API
 - TikTok API
 - Twitter API
+- WhatsApp API
 
 ### GIS
 - OpenStreetMap (OSM)
@@ -102,4 +102,4 @@ Published:
 
 ---
 
-> Open to remote Senior Backend / SaaS opportunities.
+> Open to Backend / SaaS opportunities.
